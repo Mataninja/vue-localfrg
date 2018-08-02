@@ -1,0 +1,20 @@
+{
+  "name": "vue-localfrg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mataninja",
+  "dependencies": {
+    "localforage": "^1.5.0"
+  },
+  "devDependencies": {
+    "localforage": "^1.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mataninja/vue-localfrg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mataninja/vue-localfrg/issues"
+  },
+  "homepage": "https://github.com/Mataninja/vue-localfrg#readme"
+}
