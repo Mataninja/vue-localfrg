@@ -34,7 +34,7 @@ const storage = {
         return new Promise(
             (resolve) => resolve(localForage.config(options)));
       },
-      createInstance(oprions) {
+      createInstance(options) {
         return new Promise(
             (resolve) => resolve(localForage.createInstance(options)));
       },
